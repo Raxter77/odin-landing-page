@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is an exercise for practicing building a landing page with HTML and CSS from scratch based on a given design. The images can be found in the Project: Landing Page lesson from The Odin Project's Foundations course.
